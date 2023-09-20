@@ -14,7 +14,6 @@ Key Features:
 
 🚀 Fast and Efficient: Perform spell checks quickly and efficiently, even on large codebases or documents.
 
-Ready to enhance your writing and code quality? Get started with the Ultimate C++ Spell Checker today!
 ## Installation and build
 ### Install dependencies
 #### Arch-based distro
